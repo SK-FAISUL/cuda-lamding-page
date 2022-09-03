@@ -33,7 +33,7 @@
 }
 /* Header-part */
 header{
-    width: 100%;
+    width: 87.8rem;
     float: left;
     color: #ffff;
     background-color: #87509c;
@@ -99,7 +99,7 @@ header{
 }
 /* Service Section  */
 #section{
-    width: 100%;
+    width: 87.8rem;
     float: left;
     background-color: #17c2a4;
     color: #ffffff;
@@ -126,7 +126,7 @@ header{
 #team{
     color: #3c4761;
     background-color: #e7f1f8;
-    width: 100%;
+    width: 87.8rem;
     float: left;
     text-align: center;
     padding:  100px;
@@ -170,7 +170,7 @@ header{
 /* Skill Section  */
 #skill{
     background-color: #ffffff;
-    width: 100%;
+    width: 87.8rem;
     float: left;
     text-align: center;
     padding: 100px;
@@ -191,7 +191,7 @@ header{
 /* Protfolio Section  */
 #protfolio{
     background-color: #ffdd99;
-    width: 100%;
+    width: 87.8rem;
     float: left;
     text-align: center;
     padding: 100px;
@@ -265,7 +265,7 @@ header{
 /* About us */
 #about-us{
     background-color: #d74680;
-    width: 100%;
+    width: 87.8rem;
     float: left;
     text-align: center;
     color: #ffffff;
@@ -298,7 +298,7 @@ text-align: left;
 }
 /* Footer Section  */
 #contect{
-width: 100%;
+width: 87.8rem;
 float: left;
 background-color: #3c5499;
 text-align: center;
@@ -374,7 +374,7 @@ border-bottom: 5px solid #299ec5;
     color: brown;
 }
 nav{
-    width: 100%;
+    width: 87.8rem;
     float: left;
     text-align: center;
     background-color: #344b8e;
